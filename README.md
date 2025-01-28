@@ -1,6 +1,3 @@
-# Tic-Tac-Toe-Game Description
-Tired of the same old terminal tasks? Spice things up with classic Tic Tac Toe! Play against a friend in Two Player mode or take on the bot 🤖 in Single Player. The game tracks wins 🏆, detects draws ✋, and even handles invalid inputs. After each game, start a new match or call it quits. Fun for anyone who loves a good terminal game!
-
 # 🎮 Tic Tac Toe Game 🕹️
 
 Hey there! Welcome to my first Python project — **Tic Tac Toe Game**! 😎  
@@ -44,7 +41,7 @@ You can play with a friend (2-player mode) or challenge the bot (single-player m
 
 ## 🙏 Credits
 
-Made with ❤️ by **HARSHINI R.**😅!  
+Made with ❤️ by **HARSHINI R.** 😅!  
 Hope you like it and give me feedback! 💬
 
 ---
